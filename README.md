@@ -10,6 +10,7 @@ This project presents a comprehensive **HR analytics dashboard** built in **Tabl
 
 ---
 
+
 ## 🎯 User Story
 
 **As an HR manager**, I want a comprehensive dashboard to analyze human resources data, offering both a **summary view** for overall insights and a **detailed employee records view** for deep-dive analysis.
