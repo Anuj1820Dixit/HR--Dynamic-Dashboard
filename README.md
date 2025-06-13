@@ -6,7 +6,7 @@ This project presents a comprehensive **HR analytics dashboard** built in **Tabl
 
 ## 🌐 View the Live Dashboard
 
-👉 **[View the HR Dynamix Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-username/viz/hr-dynamix-dashboard/Overview)**  
+👉 **[View the HR Dynamix Dashboard on Tableau Public](https://public.tableau.com/views/HRDashboard_17498217280520/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 ---
 
